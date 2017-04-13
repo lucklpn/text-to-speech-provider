@@ -16,8 +16,8 @@ var router = express.Router();
 
 var text_to_speech = new TextToSpeechV1 ({
   "url": "https://stream.watsonplatform.net/text-to-speech/api",
-  "username": "92185deb-d3b3-4a30-90ce-652a92fb7546",
-  "password": "iFDvHMrdWp3u"
+  "username": "4949913b-e7e4-472a-88ac-ed71183efb6e",
+  "password": "BLwZgt3VhQmO"
 });
 
 function textToSpeech(params, res) {

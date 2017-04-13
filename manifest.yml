@@ -1,8 +1,8 @@
 ---
 applications:
 - services:
-  - text-to-speech-provider
-  name: text-to-speech-provider
+  - text-to-speech-service
+  name: tts-provider
   command: node app.js
   path: .
 memory: 256M
