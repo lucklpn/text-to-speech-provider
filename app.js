@@ -64,6 +64,7 @@ app.get('/voices', function(req, res){
       res.write(error);
     else
       res.write(JSON.stringify(voices, null, 2));
+      res.end();
   });
 });
 
