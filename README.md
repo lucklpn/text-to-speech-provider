@@ -3,6 +3,8 @@ Serviço criado para atender a necessidade de omunicação de um Mobile App, poi
 Serviço Text To Speech
 ===========================================================================================
 
+Obs.: As contas abaixo são de teste, expiram em 30 dias, por isso pode já ter expirado.
+
 Teste em Ingles:
 https://tts-provider.mybluemix.net/ttspeech/?text=Hi! Good morning!&voice=en-US_AllisonVoice&accept=audio/wav
 
